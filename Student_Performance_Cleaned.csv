@@ -1,0 +1,121 @@
+student_id,study_hours,attendance,previous_score,sleep_hours,participation,final_score,status
+1,3.6,90.4,96.4,6.3,Low,76.1,Pass
+2,7.7,94.8,97.2,7.9,Low,83.2,Pass
+3,6.1,65.9,94.9,6.7,Medium,63.4,Pass
+4,5.2,55.5,62.2,7.3,High,46.6,Needs Support
+5,2.1,61.4,40.9,9.6,High,21.8,Needs Support
+6,2.1,71.4,95.7,6.3,Low,67.9,Pass
+7,1.4,90.9,65.7,9.8,Low,54.2,Pass
+8,7.1,93.0,98.0,9.4,Medium,74.6,Pass
+9,5.2,50.3,97.8,5.2,Medium,63.6,Pass
+10,6.0,75.5,91.2,4.4,High,51.4,Pass
+11,1.1,70.9,57.7,4.6,High,36.6,Needs Support
+12,7.8,61.1,63.1,4.1,Low,66.3,Pass
+13,6.8,56.0,91.1,4.6,High,71.5,Pass
+14,2.5,66.9,59.0,8.1,Medium,45.5,Needs Support
+15,2.3,97.1,50.2,4.4,Medium,45.1,Needs Support
+16,2.3,66.2,73.4,5.9,Low,53.9,Pass
+17,3.1,75.9,96.2,9.1,Medium,59.4,Pass
+18,4.7,85.2,81.8,4.1,Medium,49.9,Needs Support
+19,4.0,68.2,74.2,8.9,Medium,53.3,Pass
+20,3.0,98.6,45.8,5.7,Medium,48.4,Needs Support
+21,5.3,98.1,76.9,4.7,Low,71.5,Pass
+22,2.0,62.6,99.4,8.2,Low,47.2,Needs Support
+23,3.0,74.9,48.4,7.8,High,41.0,Needs Support
+24,3.6,65.0,71.1,9.3,Medium,49.9,Needs Support
+25,4.2,64.2,92.6,8.4,High,52.7,Pass
+26,6.5,51.8,84.4,8.8,Low,63.8,Pass
+27,2.4,80.5,81.8,5.7,Low,60.1,Pass
+28,4.6,75.1,82.1,5.1,Low,57.3,Pass
+29,5.1,52.6,61.6,8.5,Low,62.3,Pass
+30,1.3,63.9,57.6,8.8,Low,36.8,Needs Support
+31,5.3,95.4,88.6,9.9,Low,64.6,Pass
+32,2.2,62.0,88.6,6.5,Low,50.0,Pass
+33,1.5,57.2,92.0,6.2,Medium,46.3,Needs Support
+34,7.6,74.5,94.8,8.7,High,67.9,Pass
+35,7.8,99.3,70.7,6.0,Low,57.6,Pass
+36,6.7,62.1,70.1,9.6,Medium,55.9,Pass
+37,3.1,83.6,87.9,9.2,Medium,60.0,Pass
+38,1.7,88.1,79.0,6.6,High,37.5,Needs Support
+39,5.8,61.9,82.1,8.5,Low,59.0,Pass
+40,4.1,86.4,87.7,8.5,High,62.9,Pass
+41,1.9,68.4,93.4,4.6,Low,59.4,Pass
+42,4.5,81.6,60.3,9.4,Medium,60.1,Pass
+43,1.2,81.7,62.5,7.0,Medium,50.3,Pass
+44,7.4,76.8,45.6,9.0,Medium,47.8,Needs Support
+45,2.8,54.5,74.7,5.9,Medium,42.6,Needs Support
+46,5.6,91.8,42.2,9.4,High,53.3,Pass
+47,3.2,66.0,67.9,6.3,Low,44.5,Needs Support
+48,4.6,59.3,72.6,4.1,Low,43.8,Needs Support
+49,4.8,52.0,57.2,9.4,High,61.9,Pass
+50,2.3,79.5,75.4,4.5,Low,49.6,Needs Support
+51,7.8,83.9,41.8,5.9,Medium,48.6,Needs Support
+52,6.4,50.8,42.2,9.7,Low,27.7,Needs Support
+53,7.6,75.6,89.4,9.7,Medium,75.8,Pass
+54,7.3,61.3,61.6,7.4,High,48.2,Needs Support
+55,5.2,82.3,47.6,7.8,Low,48.7,Needs Support
+56,7.5,58.7,71.3,6.7,High,65.8,Pass
+57,1.6,84.5,86.2,5.8,Low,48.6,Needs Support
+58,2.4,69.3,52.9,6.0,Medium,41.6,Needs Support
+59,1.3,96.8,77.4,8.0,High,64.2,Pass
+60,3.3,56.9,45.1,8.5,Low,20.5,Needs Support
+61,3.7,67.1,43.1,8.7,Medium,34.2,Needs Support
+62,2.9,55.7,71.9,8.7,High,40.8,Needs Support
+63,6.8,96.2,72.4,4.5,High,63.9,Pass
+64,3.5,93.9,78.2,7.0,Low,58.5,Pass
+65,3.0,62.9,83.6,4.3,Low,46.1,Needs Support
+66,4.8,83.0,98.6,7.3,Low,63.5,Pass
+67,2.0,90.9,71.0,6.6,Medium,46.2,Needs Support
+68,6.6,77.8,59.4,9.3,Low,53.4,Pass
+69,1.5,76.5,87.7,6.1,High,55.7,Pass
+70,7.9,62.1,56.2,4.7,High,61.0,Pass
+71,6.4,54.7,66.3,4.9,Low,60.8,Pass
+72,2.4,94.9,44.7,8.6,Low,47.4,Needs Support
+73,1.0,95.0,41.5,7.7,High,32.0,Needs Support
+74,6.7,81.7,97.8,4.6,Medium,72.2,Pass
+75,5.9,67.0,90.2,4.5,Low,80.9,Pass
+76,6.1,67.5,81.8,8.2,Low,68.6,Pass
+77,6.4,86.3,64.5,4.4,High,56.0,Pass
+78,1.5,94.9,50.4,8.9,Low,54.0,Pass
+79,3.5,94.4,49.4,8.2,Medium,44.7,Needs Support
+80,1.8,89.0,55.0,4.5,High,39.6,Needs Support
+81,7.0,82.1,73.0,4.5,Low,72.9,Pass
+82,5.4,54.2,82.9,9.9,High,48.3,Needs Support
+83,3.3,58.1,79.6,6.2,Low,38.3,Needs Support
+84,1.4,94.9,56.8,6.2,Low,51.8,Pass
+85,3.2,80.3,97.3,8.9,Low,63.2,Pass
+86,3.3,50.5,84.3,9.7,Medium,53.0,Pass
+87,6.1,55.1,73.3,9.9,Medium,53.1,Pass
+88,5.5,83.2,76.7,8.5,High,59.4,Pass
+89,7.2,50.3,65.2,6.3,Low,50.9,Pass
+90,4.3,58.0,54.9,4.5,Low,39.9,Needs Support
+91,1.8,77.4,61.4,8.7,Medium,41.9,Needs Support
+92,6.0,84.6,85.5,7.4,Low,63.2,Pass
+93,6.3,82.6,40.9,6.5,Medium,42.8,Needs Support
+94,4.9,61.2,47.0,9.4,Low,39.5,Needs Support
+95,6.4,85.6,42.8,4.7,High,32.7,Needs Support
+96,4.5,61.9,42.4,7.0,Low,45.4,Needs Support
+97,4.7,66.3,91.3,4.1,Low,64.3,Pass
+98,4.0,87.3,82.2,6.8,Medium,59.7,Pass
+99,1.2,82.5,68.5,4.3,Low,48.6,Needs Support
+100,1.8,92.5,45.9,4.7,Low,43.3,Needs Support
+101,1.2,82.9,69.5,4.7,Medium,42.3,Needs Support
+102,5.5,78.4,68.4,7.9,High,53.1,Pass
+103,3.2,54.7,50.4,8.5,High,42.8,Needs Support
+104,4.6,68.4,66.0,7.5,Medium,53.0,Pass
+105,7.4,63.3,63.9,9.8,Medium,71.0,Pass
+106,2.7,62.2,77.0,6.2,Medium,61.3,Pass
+107,3.9,98.7,78.1,5.7,Medium,67.3,Pass
+108,6.3,69.7,42.7,9.2,Medium,41.4,Needs Support
+109,2.6,94.6,62.5,5.3,High,46.5,Needs Support
+110,1.5,81.6,77.6,9.8,High,44.1,Needs Support
+111,3.0,89.7,70.2,4.1,Medium,55.5,Pass
+112,2.1,75.1,91.4,9.8,Low,37.6,Needs Support
+113,7.5,78.8,79.5,4.3,Medium,63.1,Pass
+114,6.7,74.6,49.8,9.3,Low,49.4,Needs Support
+115,5.4,59.8,44.2,7.2,Medium,32.5,Needs Support
+116,7.1,86.1,78.5,10.0,Medium,72.0,Pass
+117,6.6,64.0,41.6,4.4,High,38.0,Needs Support
+118,2.3,51.2,75.1,7.3,Low,47.9,Needs Support
+119,7.2,82.3,96.4,9.8,Low,92.5,Pass
+120,4.8,58.9,74.5,7.1,High,42.3,Needs Support
